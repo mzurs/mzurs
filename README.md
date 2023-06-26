@@ -32,10 +32,18 @@ src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=jav
 
 #### 🎛 Frameworks and runtime environments
 
-<p><a href="https://nodejs.org" target="_blank"><img alt="Node.js"src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
- <a href=""><img alt="Hardhat" src="https://hardhat.org/_next/static/media/hardhat-logo-dark.484eb916.svg"/></a></p>
+<p>
+<br>
+<a href="https://nodejs.org" target="_blank"><img alt="Node.js"src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+<br>
+
+<a href=""><img alt="Hardhat" src="https://hardhat.org/_next/static/media/hardhat-logo-dark.484eb916.svg"/></a>
+<br>
+
+ </p>
 
 #### 🗃 Package, dependency, and environment management
+<br>
 
 <p>
     <a href="https://www.npmjs.com" target="_blank"><img alt="npm"src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
@@ -43,6 +51,7 @@ src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=jav
 </p>
 
 #### 🛠 Toolings, platforms, infrastructure providers, and libraries
+<br>
 
 <p>
 <a href="https://aws.amazon.com" target="_blank"><img alt="AWS"src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
@@ -54,12 +63,10 @@ src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=jav
 - [DappTools](https://github.com/dapphub/dapptools)
 - [web3.js](https://web3js.readthedocs.io)
 
-
-
 ### 🔎 Some stats
+<br>
 
 ![Zohaib's GitHub Stats](https://github-readme-stats-beta-ruby-27.vercel.app/api?username=keccak-256&count_private=true&show_icons=true&theme=tokyonight)
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=keccak-256&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-
-
