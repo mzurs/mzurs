@@ -59,9 +59,9 @@ src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=jav
 <a href="https://www.postman.com" target="_blank"><img alt="Postman"src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a>
 </p>
 
-- [ethers.js](https://docs.ethers.io)
+- [EtherJS](https://docs.ethers.io)
 - [DappTools](https://github.com/dapphub/dapptools)
-- [web3.js](https://web3js.readthedocs.io)
+- [Web3JS](https://web3js.readthedocs.io)
 
 ### 🔎 Some stats
 <br>
