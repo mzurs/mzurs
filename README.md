@@ -13,30 +13,35 @@
 - 📫 How to reach me **<zohaib10092001@gmail.com>**
 
 - ⚡ Fun fact **Programmers don't write code, they type it into existence.**
+<br>
+<br>
 
 ### 💻 OS
 
 <p><a href="https://ubuntu.com" target="blank">
-<img alt="Ubuntu"src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
+<img alt="Ubuntu"src="public/linux-tux-svgrepo-com.svg"/></a>
 </p>
 
 ### 🎯 Skills
+<br>
 
 #### ⌨️ Programming languages
-
+<br>
 <div>
 <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript"src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
 <a href="https://docs.soliditylang.org" target="_blank"><img alt="Solidity"src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/></a>
+
 </div>
+<br>
 
 #### 🎛 Frameworks and runtime environments
 
 <p>
 <br>
-<a href=""><img alt="Hardhat" src="public/hardhat-seeklogo.com.svg"/></a>
+<a href="https://hardhat.org/"><img alt="Hardhat" src="public/hardhat-seeklogo.com.svg"/></a>
 &nbsp;&nbsp;<a href="https://nodejs.org" target="_blank"><img alt="Node.js"src="public/nodejs-1-logo-svgrepo-com.svg"/></a>
 &nbsp;&nbsp;
-<a href=""><img alt="NextJS"  src="public/nextjs-icon-svgrepo-com.svg"/></a>
+<a href="https://nextjs.org/"><img alt="NextJS"  src="public/nextjs-icon-svgrepo-com.svg"/></a>
 <br>
  </p>
 
@@ -63,6 +68,14 @@
 - [DappTools](https://github.com/dapphub/dapptools)
 - [Web3JS](https://web3js.readthedocs.io)
 
+#### 🔎 Browsers
+<br>
+<div>
+<a href="https://chrome.com/"><img alt="Chrome" src="public/chrome-svgrepo-com.svg"/></a>
+&nbsp;&nbsp;
+<a href="https://brave.com/"><img alt="Brave" src="public/brave-svgrepo-com.svg"/></a>
+</div>
+<br>
 ### 🔎 Some stats
 
 <br>
