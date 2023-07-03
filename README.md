@@ -1,4 +1,4 @@
-# ![Header](github-header-image.png)
+# ![Header](public/github-header-image.png)
 
 ## Hi there 👋 I'm Muhammad Zohaib
 
@@ -24,25 +24,24 @@
 
 #### ⌨️ Programming languages
 
-<p><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript"
-src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
-<a href="https://docs.soliditylang.org" target="_blank"><img alt="Solidity"src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/></a>
+<div>
 <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript"src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
-</p>
+<a href="https://docs.soliditylang.org" target="_blank"><img alt="Solidity"src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/></a>
+</div>
 
 #### 🎛 Frameworks and runtime environments
 
 <p>
 <br>
-<a href="https://nodejs.org" target="_blank"><img alt="Node.js"src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+<a href=""><img alt="Hardhat" src="public/hardhat-seeklogo.com.svg"/></a>
+&nbsp;&nbsp;<a href="https://nodejs.org" target="_blank"><img alt="Node.js"src="public/nodejs-1-logo-svgrepo-com.svg"/></a>
+&nbsp;&nbsp;
+<a href=""><img alt="NextJS"  src="public/nextjs-icon-svgrepo-com.svg"/></a>
 <br>
-
-<a href=""><img alt="Hardhat" src="https://hardhat.org/_next/static/media/hardhat-logo-dark.484eb916.svg"/></a>
-<br>
-
  </p>
 
 #### 🗃 Package, dependency, and environment management
+
 <br>
 
 <p>
@@ -51,6 +50,7 @@ src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=jav
 </p>
 
 #### 🛠 Toolings, platforms, infrastructure providers, and libraries
+
 <br>
 
 <p>
@@ -64,6 +64,7 @@ src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=jav
 - [Web3JS](https://web3js.readthedocs.io)
 
 ### 🔎 Some stats
+
 <br>
 
 ![Zohaib's GitHub Stats](https://github-readme-stats-beta-ruby-27.vercel.app/api?username=keccak-256&count_private=true&show_icons=true&theme=tokyonight)
