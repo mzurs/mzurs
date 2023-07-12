@@ -76,6 +76,7 @@
 <a href="https://brave.com/"><img alt="Brave" src="public/brave-svgrepo-com.svg"/></a>
 </div>
 <br>
+
 ### 🔎 Some stats
 
 <br>
