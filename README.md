@@ -28,9 +28,9 @@
 #### ⌨️ Programming languages
 <br>
 <div>
-<a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript"src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+<a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript"src="public/typescript_icon.svg"/></a>
 <a href="https://docs.soliditylang.org" target="_blank"><img alt="Solidity"src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/></a>
-
+<a href="https://docs.soliditylang.org" target="_blank"><img alt="GraphQL"src="public/graphql-svgrepo-com.svg"/></a>
 </div>
 <br>
 
