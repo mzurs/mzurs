@@ -84,4 +84,4 @@
 ![Zohaib's GitHub Stats](https://github-readme-stats-beta-ruby-27.vercel.app/api?username=keccak-256&count_private=true&show_icons=true&theme=tokyonight)
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=keccak-256&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-beta-ruby-27.vercel.app/api/top-langs?username=keccak-256&show_icons=true&locale=en&layout=compact&theme=tokyonight)
