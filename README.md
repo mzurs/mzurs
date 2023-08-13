@@ -29,8 +29,8 @@
 <br>
 <div>
 <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript"src="public/typescript_icon.svg"/></a>
-<a href="https://docs.soliditylang.org" target="_blank"><img alt="Solidity"src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/></a>
-<a href="https://docs.soliditylang.org" target="_blank"><img alt="GraphQL"src="public/graphql-svgrepo-com.svg"/></a>
+<a href="https://docs.soliditylang.org" target="_blank"><img alt="Solidity"src="public/solidity.svg"/></a>
+<a href="https://graphql.org/" target="_blank"><img alt="GraphQL"src="public/graphql-svgrepo-com.svg"/></a>
 </div>
 <br>
 
@@ -41,7 +41,7 @@
 <a href="https://hardhat.org/"><img alt="Hardhat" src="public/hardhat-seeklogo.com.svg"/></a>
 &nbsp;&nbsp;<a href="https://nodejs.org" target="_blank"><img alt="Node.js"src="public/nodejs-1-logo-svgrepo-com.svg"/></a>
 &nbsp;&nbsp;
-<a href="https://nextjs.org/"><img alt="NextJS"  src="public/nextjs-icon-svgrepo-com.svg"/></a>
+<a href="https://nextjs.org/"><img alt="NextJS"  src="public/nextjs.svg"/></a>
 <br>
  </p>
 
