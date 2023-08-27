@@ -22,9 +22,9 @@
 <img alt="Ubuntu"src="public/linux-tux-svgrepo-com.svg"/></a>
 </p>
 
-## 🎯 Skills
+### 🎯 Skills
 
-### ⌨️ Programming languages
+#### ⌨️ Programming languages
 <br>
 <div>
 <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript"src="public/typescript_icon.svg"/></a>
@@ -61,14 +61,9 @@
 <a href="https://www.postman.com" target="_blank"><img alt="Postman"src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a>
 </p>
 
-### 🔎 Browsers
-<div>
-<a href="https://chrome.com/"><img alt="Chrome" src="public/chrome-svgrepo-com.svg"/></a>
-&nbsp;&nbsp;
-<a href="https://brave.com/"><img alt="Brave" src="public/brave-svgrepo-com.svg"/></a>
-</div>
 
-### 🔎 Some stats
+
+#### 🔎 Some stats
 
 
 ![Zohaib's GitHub Stats](https://github-readme-stats-beta-ruby-27.vercel.app/api?username=keccak-256&count_private=true&show_icons=true&theme=tokyonight)
