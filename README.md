@@ -6,7 +6,7 @@
 
 <!-- - 🌱 I’m currently learning **Foudry** -->
 
-- 👨‍💻 All of my projects are available at [Keccak-256](https://github.com/keccak-256?tab=repositories)
+- 👨‍💻 All of my projects are available at [MZURS](https://github.com/mzurs?tab=repositories)
 
 - 💬 Ask me about **Cloud Computing and Blockchain**
 
@@ -66,7 +66,7 @@
 #### 🔎 Some stats
 
 
-![Zohaib's GitHub Stats](https://github-readme-stats-beta-ruby-27.vercel.app/api?username=keccak-256&count_private=true&show_icons=true&theme=tokyonight)
+![Zohaib's GitHub Stats](https://github-readme-stats-beta-ruby-27.vercel.app/api?username=mzurs&count_private=true&show_icons=true&theme=tokyonight)
 <br>
 
-![Top Langs](https://github-readme-stats-beta-ruby-27.vercel.app/api/top-langs?username=keccak-256&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-beta-ruby-27.vercel.app/api/top-langs?username=mzurs&show_icons=true&locale=en&layout=compact&theme=tokyonight)
