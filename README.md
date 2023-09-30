@@ -1,4 +1,5 @@
-# ![Header](public/github-header-image.png)
+<!-- # ![Header](public/github-header-image.png) -->
+#
 
 ## Hi there 👋 I'm Muhammad Zohaib
 
@@ -6,25 +7,27 @@
 
 <!-- - 🌱 I’m currently learning **Foudry** -->
 
-- 👨‍💻 All of my projects are available at [MZURS](https://github.com/mzurs?tab=repositories)
+- 👨‍💻 All of my projects are available at [mzurs](https://github.com/mzurs?tab=repositories)
 
 - 💬 Ask me about **Cloud Computing and Blockchain**
 
 - 📫 How to reach me [Email](**<zohaib10092001@gmail.com>**)
 
-- ⚡ Fun fact **Programmers don't write code, they type it into existence.**
-<br>
+- ⚡ Fun fact **It took less code to send a man to the Moon than to run a smartphone.**
 <br>
 
-### 💻 OS
+<br>
+
+#### 💻 OS
 
 <p><a href="https://ubuntu.com" target="blank">
 <img alt="Ubuntu"src="public/linux-tux-svgrepo-com.svg"/></a>
 </p>
 
-### 🎯 Skills
+#### 🎯 Skills
 
 #### ⌨️ Programming languages
+
 <br>
 <div>
 <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript"src="public/typescript_icon.svg"/></a>
@@ -43,7 +46,6 @@
 <br>
  </p>
 
-
 #### 🗃 Package, dependency, and environment management
 
 <p>
@@ -54,17 +56,13 @@
 
 #### 🛠 Toolings, platforms, infrastructure providers, and libraries
 
-
 <p>
 <a href="https://aws.amazon.com" target="_blank"><img alt="AWS"src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
 <a href="https://git-scm.com" target="_blank"><img alt="Git"src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
 <a href="https://www.postman.com" target="_blank"><img alt="Postman"src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a>
 </p>
 
-
-
 #### 🔎 Some stats
-
 
 ![Zohaib's GitHub Stats](https://github-readme-stats-beta-ruby-27.vercel.app/api?username=mzurs&count_private=true&show_icons=true&theme=tokyonight)
 <br>
