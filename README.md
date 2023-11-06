@@ -1,4 +1,5 @@
 <!-- # ![Header](public/github-header-image.png) -->
+
 #
 
 ## Hi there 👋 I'm Muhammad Zohaib
@@ -14,7 +15,7 @@
 - 📫 How to reach me [Email](**<zohaib10092001@gmail.com>**)
 
 - ⚡ Fun fact **It took less code to send a man to the Moon than to run a smartphone.**
-<br>
+  <br>
 
 <br>
 
@@ -24,7 +25,7 @@
 <img alt="Ubuntu"src="public/linux-tux-svgrepo-com.svg"/></a>
 </p>
 
-#### 🎯 Skills
+<!-- #### 🎯 Skills -->
 
 #### ⌨️ Programming languages
 
@@ -62,9 +63,9 @@
 <a href="https://www.postman.com" target="_blank"><img alt="Postman"src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a>
 </p>
 
-#### 🔎 Some stats
+#### 🔎 mzurs stats
 
-![Zohaib's GitHub Stats](https://github-readme-stats-beta-ruby-27.vercel.app/api?username=mzurs&count_private=true&show_icons=true&theme=tokyonight)
+![Zohaib's GitHub Stats](https://github-readme-stats-beta-ruby-27.vercel.app/api?username=mzurs&count_private=true&show_icons=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&&hide_border=true)
 <br>
 
-![Top Langs](https://github-readme-stats-beta-ruby-27.vercel.app/api/top-langs?username=mzurs&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-beta-ruby-27.vercel.app/api/top-langs?username=mzurs&langs_count=6&&hide_progress=true&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&border_radius=1)
