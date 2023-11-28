@@ -63,9 +63,9 @@
 <a href="https://www.postman.com" target="_blank"><img alt="Postman"src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a>
 </p>
 
-#### 🔎 mzurs stats
+#### 🔎 Stats (mzurs)
 
 ![Zohaib's GitHub Stats](https://github-readme-stats-beta-ruby-27.vercel.app/api?username=mzurs&count_private=true&show_icons=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&&hide_border=true)
 <br>
 
-![Top Langs](https://github-readme-stats-beta-ruby-27.vercel.app/api/top-langs?username=mzurs&langs_count=6&&hide_progress=true&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&border_radius=1)
+![Top Langs](https://github-readme-stats-beta-ruby-27.vercel.app/api/top-langs?username=mzurs&langs_count=5&&hide_progress=true&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&border_radius=1)
