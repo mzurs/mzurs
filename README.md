@@ -6,8 +6,6 @@
 
 ### About me 💯
 
-<!-- - 🌱 I’m currently learning **Foudry** -->
-
 - 👨‍💻 All of my projects are available at [mzurs](https://github.com/mzurs?tab=repositories)
 
 - 💬 Ask me about **Cloud Computing and Blockchain**
@@ -15,57 +13,40 @@
 - 📫 How to reach me [Email](**<zohaib10092001@gmail.com>**)
 
 - ⚡ Fun fact **It took less code to send a man to the Moon than to run a smartphone.**
-  <br>
-
-<br>
 
 #### 💻 OS
 
-<p><a href="https://ubuntu.com" target="blank">
-<img alt="Ubuntu"src="public/linux-tux-svgrepo-com.svg"/></a>
-</p>
-
-<!-- #### 🎯 Skills -->
+- [Linux (Ubuntu)](https://ubuntu.com/)
+- [MacOS](https://www.apple.com/macos/sonoma/)
 
 #### ⌨️ Programming languages
 
-<br>
-<div>
-<a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript"src="public/typescript_icon.svg"/></a>
-<a href="https://docs.soliditylang.org" target="_blank"><img alt="Solidity"src="public/solidity.svg"/></a>
-<a href="https://graphql.org/" target="_blank"><img alt="GraphQL"src="public/graphql-svgrepo-com.svg"/></a>
-</div>
-<br>
+- [Typescript/Javascript](https://www.typescriptlang.org/)
+- [Rust](https://www.rust-lang.org/)
+- [Solidity](https://soliditylang.org/)
 
 #### 🎛 Frameworks and runtime environments
 
-<p>
-<a href="https://hardhat.org/"><img alt="Hardhat" src="public/hardhat-seeklogo.com.svg"/></a>
-&nbsp;&nbsp;<a href="https://nodejs.org" target="_blank"><img alt="Node.js"src="public/nodejs-1-logo-svgrepo-com.svg"/></a>
-&nbsp;&nbsp;
-<a href="https://nextjs.org/"><img alt="NextJS"  src="public/nextjs.svg"/></a>
-<br>
- </p>
+- [Hardhat](https://hardhat.org/)
+- [NodeJS](https://nodejs.org/en)
+- [NextJS](https://nextjs.org/)
+- [Bun](https://bun.sh/)
 
 #### 🗃 Package, dependency, and environment management
 
-<p>
-    <a href="https://www.npmjs.com" target="_blank"><img alt="npm"src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
-    <a href="https://yarnpkg.com" target="_blank"><img alt="Yarn"src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/></a>
-</p>
-</>
+- [npm](https://www.npmjs.com/)
+- [yarn](https://yarnpkg.com/)
+- [bun](https://bun.sh/)
 
 #### 🛠 Toolings, platforms, infrastructure providers, and libraries
 
-<p>
-<a href="https://aws.amazon.com" target="_blank"><img alt="AWS"src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
-<a href="https://git-scm.com" target="_blank"><img alt="Git"src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-<a href="https://www.postman.com" target="_blank"><img alt="Postman"src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a>
-</p>
+- [Amazon Web Serives (AWS)](https://aws.amazon.com/?nc2=h_lg)
+- [Postman](https://www.postman.com/)
+- [Thunder Client](https://www.thunderclient.com/)
+- [Git](https://git-scm.com/)
 
 #### 🔎 Stats (mzurs)
 
-![Zohaib's GitHub Stats](https://github-readme-stats-beta-ruby-27.vercel.app/api?username=mzurs&count_private=true&show_icons=true&bg_color=000000&title_color=00FFFF&text_color=00FFFF&&hide_border=false)
-<br>
-
 ![Top Langs](https://github-readme-stats-beta-ruby-27.vercel.app/api/top-langs?username=mzurs&langs_count=5&&hide_progress=true&show_icons=true&locale=en&layout=compact&bg_color=000000&hide_border=false&title_color=00FFFF&text_color=00FFFF&border_radius=1)
+
+![Zohaib's GitHub Stats](https://github-readme-stats-beta-ruby-27.vercel.app/api?username=mzurs&count_private=true&show_icons=true&bg_color=000000&title_color=00FFFF&text_color=00FFFF&&hide_border=false)
