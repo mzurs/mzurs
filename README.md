@@ -65,7 +65,7 @@
 
 #### 🔎 Stats (mzurs)
 
-![Zohaib's GitHub Stats](https://github-readme-stats-beta-ruby-27.vercel.app/api?username=mzurs&count_private=true&show_icons=true&bg_color=1E2952&title_color=FFFFFF&text_color=FFFFFF&&hide_border=true)
+![Zohaib's GitHub Stats](https://github-readme-stats-beta-ruby-27.vercel.app/api?username=mzurs&count_private=true&show_icons=true&bg_color=000000&title_color=00FFFF&text_color=00FFFF&&hide_border=false)
 <br>
 
-![Top Langs](https://github-readme-stats-beta-ruby-27.vercel.app/api/top-langs?username=mzurs&langs_count=5&&hide_progress=true&show_icons=true&locale=en&layout=compact&bg_color=1E2952&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&border_radius=1)
+![Top Langs](https://github-readme-stats-beta-ruby-27.vercel.app/api/top-langs?username=mzurs&langs_count=5&&hide_progress=true&show_icons=true&locale=en&layout=compact&bg_color=000000&hide_border=false&title_color=00FFFF&text_color=00FFFF&border_radius=1)
