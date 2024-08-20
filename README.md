@@ -4,7 +4,7 @@
 
 ### About me 💯
 
-- 👨‍💻 All of my projects are available at [mzurs](https://github.com/mzurs?tab=repositorieshttps://muhammadzohaib.vercel.app/)
+- 👨‍💻 All of my projects are available at [mzurs](https://muhammadzohaib.vercel.app/)
 
 - 💬 Ask me about **Cloud Computing and Blockchain**
 
