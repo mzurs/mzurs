@@ -1,6 +1,6 @@
 #
 
-## Hi there 👋 I'm Muhammad Zohaib
+## Hi there 👋 I'm Muhammad Zohaib ur Rehman Shaikh
 
 ### About me 💯
 
