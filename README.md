@@ -18,7 +18,7 @@
 
 #### ⌨️ Programming languages
 
-**[Typescript/Javascript](https://www.typescriptlang.org/)**, **[Rust](https://www.rust-lang.org/)**, **[Solidity](https://soliditylang.org/)**
+**[Python](https://www.python.org/)**, **[Typescript | Javascript](https://www.typescriptlang.org/)**, **[Rust](https://www.rust-lang.org/)**, **[Solidity](https://soliditylang.org/)**
 
 #### Frameworks and runtime environments
 
