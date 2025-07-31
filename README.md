@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [mzurs](https://muhammadzohaib.vercel.app/)
 
-- 💬 Ask me about **Cloud Computing and Blockchain**
+- 💬 Ask me about **AI, Cloud Computing and Blockchain**
 
 - 📫 How to reach me [Email](**<zohaib10092001@gmail.com>**)
 
