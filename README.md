@@ -2,35 +2,11 @@
 
 ## Hi there 👋 I'm Zohaib
 
-### About me 💯
+### About me
 
 - 👨‍💻 All of my projects are available at [mzurs](https://muhammadzohaib.vercel.app/)
 
-- 💬 Ask me about **AI, Cloud Computing and Blockchain**
-
-- 📫 How to reach me [Email](**<zohaib10092001@gmail.com>**)
-
-- ⚡ Fun fact **It took less code to send a man to the Moon than to run a smartphone.**
-
-#### OSes
-
-**[Linux (Ubuntu)](https://ubuntu.com/)**, **[MacOS](https://www.apple.com/macos/sonoma/)**
-
-#### ⌨️ Programming languages
-
-**[Python](https://www.python.org/)**, **[Typescript | Javascript](https://www.typescriptlang.org/)**, **[Rust](https://www.rust-lang.org/)**, **[Solidity](https://soliditylang.org/)**
-
-#### Frameworks and runtime environments
-
-**[Hardhat](https://hardhat.org/)**, **[NodeJS](https://nodejs.org/en)**, **[NextJS](https://nextjs.org/)**, **[Bun](https://bun.sh/)**
-
-#### Package, dependency, and environment management
-
-**[npm](https://www.npmjs.com/)**, **[yarn](https://yarnpkg.com/)**, **[bun](https://bun.sh/)**
-
-#### Toolings, platforms, infrastructure providers, and libraries
-
-**[Amazon Web Services (AWS)](https://aws.amazon.com/?nc2=h_lg)**, **[Postman](https://www.postman.com/)**, **[Thunder Client](https://www.thunderclient.com/)**, **[Git](https://git-scm.com/)**
+- 📫 How to reach me >>> [Email](**<zohaib10092001@gmail.com>**)
 
 #### 🔎 Stats (mzurs)
 
